@@ -81,5 +81,5 @@ Aqui vão algumas dicas:
 
 Lançado em 2022
 
-Feito por [Bruno Morales](https://github.com/brunommorales).
+Feito por [Bruno Morales e Alura](https://github.com/brunommorales).
 Este projeto está sob a [licença MIT](./LICENSE).
